@@ -7,12 +7,17 @@
 
 🌐 **[Voir le portfolio en ligne](https://thuthaonguyen.fr)**
 
-
-
 Portfolio personnel, développé avec **React, TypeScript, Bootstrap et Vite**.  
+
 Ce site met en avant mon parcours, mes compétences techniques et mes projets web en développement full-stack, avec la possibilité de télécharger mon CV. 
 
 Projet déployé sur Vercel.
+
+**Environnement requis**  
+
+Node.js : version v20.14.0
+
+Télécharger ici : https://nodejs.org/download/release/v20.14.0/
 
 
 **Pages principales**
