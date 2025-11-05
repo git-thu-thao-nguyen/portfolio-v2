@@ -23,4 +23,9 @@ Télécharger ici : https://nodejs.org/download/release/v20.14.0/
 **Pages principales**
 
 - Accueil : présentation rapide, photo, parcours et compétences techniques    
-- Projets : liste de quelques-uns de mes projets personnels (avec lien vers démo et github)
+- Projets : liste de quelques-uns de mes projets personnels (avec lien vers démo et github)  
+
+
+## 📸 Aperçu visuel
+
+![App Demo](./public/app-demo.png)

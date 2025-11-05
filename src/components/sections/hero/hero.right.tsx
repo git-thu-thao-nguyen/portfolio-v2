@@ -53,17 +53,17 @@ const HeroRight = () => {
                         <span>{"', '"}</span>
                         <span >React</span>
                         <span>{"', '"}</span>
-                        <span >JavaScript</span>
+                        <span >JavaScript/TypeScript</span>
                         <span>{"', '"}</span>
-                        <span >TypeScript</span>
-                        <span>{"', '"}</span>
-                        <span >Html / Css / Tailwind</span>
+                        <span >Html/Css/Tailwind</span>
                         <span>{"', '"}</span>
                         <span >MySQL</span>
                         <span>{"', '"}</span>
                         <span >MongoDB</span>
                         <span>{"', '"}</span>
                         <span >Elasticsearch</span>
+                        <span>{"', '"}</span>
+                        <span >..</span>
                         <span>{"'],"}</span>
                     </div>
                     <div>

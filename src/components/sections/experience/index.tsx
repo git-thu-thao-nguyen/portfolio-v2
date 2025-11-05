@@ -54,9 +54,13 @@ const Experience = () => {
                                             <div className="info">
                                                 <p className="title">{experience.title[currentLanguage]}</p>
                                                 <p className="company">{experience.company[currentLanguage]}</p>
-                                                {(experience.description[currentLanguage] as string[]).map(value => (
-                                                    <p className="description">- {value}</p>
-                                                ))}
+                                                {Array.isArray(experience.description[currentLanguage]) &&
+                                                    (
+                                                        experience.description[currentLanguage].map((value, index) => (
+                                                            <p key={index} className="description">- {value}</p>
+                                                        ))
+                                                    )
+                                                }
                                             </div>
                                         </div>
                                     </div>

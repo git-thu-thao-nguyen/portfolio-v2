@@ -9,7 +9,7 @@
     "heroSection": {
         "hello": "Bonjour!",
         "introduction": "Je m'appelle",
-        "exp": "Expériences",
+        "exp": "Expérience",
         "cv": "Mon CV",
         "job1": "Développeuse Fullstack",
         "job2": "Freelance"
@@ -32,7 +32,7 @@
         "heading9": "Et surtout, je prends beaucoup de plaisir à apprendre, tester, échouer parfois… mais toujours progresser 🙂"
     },
     "experience": {
-        "title": "Expériences"
+        "title": "Expérience professionnelle"
     },
     "skill": {
         "title": "Compétences"

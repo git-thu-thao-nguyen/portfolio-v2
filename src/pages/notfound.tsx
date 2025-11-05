@@ -6,7 +6,7 @@ const NotFound = () => {
     return (
         <div className="d-flex flex-column gap-6 align-items-center justify-content-center min-vh-100">
             <AnimationLottie animationPath={animation404} width="30%" />
-            <h3 className="font-bold mt-4">Page introuvable</h3>
+            {/* <h3 className="font-bold mt-4">Page introuvable</h3> */}
         </div>
     );
 };

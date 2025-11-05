@@ -40,7 +40,7 @@ function ProjectCard(props: IProps) {
                                 href={props.demoLink}
                                 target="_blank"
                             >
-                                <CgWebsite />&nbsp;Démo
+                                <CgWebsite />&nbsp;Live Demo
                             </Button>
                         }
                     </div>

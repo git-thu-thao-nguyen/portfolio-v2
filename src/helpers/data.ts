@@ -7,7 +7,7 @@ import velunaImg from 'assets/project/veluna.png';
 
 export const APP_DATA = {
     GITHUB_URL: "https://github.com/git-thu-thao-nguyen",
-    LINKEDIN_URL: "https://www.linkedin.com/in/thuthao-n/",
+    LINKEDIN_URL: "https://www.linkedin.com/in/thuthao-ng/",
     CV_URL: "https://drive.google.com/file/d/1aOfIu651Uik2K8Tnh8AXSqYR5UzsJQTB/view" //TODO
 }
 
@@ -28,10 +28,10 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Conception et développement d'un tableau de bord moderne et interactif pour la plateforme Price Observatory.",
-            "Développement d'interfaces permettant aux clients de gérer et planifier l'envoi automatique d'exports avec filtres.",
-            "Participation à la mise en place d'une solution d'analyse automatisée basée sur l'IA, réduisant d'environ un tiers la charge de travail liée à la validation des données et accélérant la livraison des projets clients.",
-            "Refactoring et optimisation du module de visualisation de données (graphiques de prix, marques, etc.), afin d'améliorer les performances et la maintenabilité du code."
+            "Conception et développement d'un tableau de bord moderne et interactif pour la plateforme Price Observatory",
+            "Développement d'interfaces pour gérer et planifier l'envoi automatique d'exports avec filtres",
+            "Participation à la mise en place d'une solution d'analyse automatisée basée sur l'IA, réduisant la charge de travail liée à la validation des données et accélérant la livraison des projets clients",
+            "Refactoring et optimisation du module de visualisation de données (graphiques de prix, marques, etc.)"
             ],
             en: ""
         }
@@ -52,10 +52,10 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Création et pilotage d'une équipe technique de cinq personnes basée à l'étranger, avec mise en place d'une organisation à distance et d'outils collaboratifs.",
-            "Planification, chiffrage et suivi des projets clients, avec un taux de livraisons dans les délais supérieur à 95%.",
-            "Développement, pour le groupe TTI - leader mondial de l'outillage électrique (Milwaukee, AEG, Ryobi), d'un système automatisé de monitoring sur plus de 300 sites revendeurs (dont Amazon), permettant la détection des revendeurs non autorisés.",
-            "Conception et déploiement, pour le groupe Schneider Electric - spécialiste mondial de la gestion de l'énergie et de l'automatisation, d'un outil de monitoring international des sites e-commerce, facilitant le suivi et le contrôle des revendeurs dans plus de 30 pays.",
+            "Création et pilotage d'une équipe technique de 5 personnes basée à l'étranger, avec mise en place d'une organisation à distance et d'outils collaboratifs",
+            "Planification, chiffrage et suivi des projets clients, avec un taux de livraisons dans les délais supérieur à 95%",
+            "Développement, pour le groupe TTI (marques Milwaukee, Ryobi), d'un système automatisé de monitoring sur plus de 300 sites distributeurs, intégrant la détection des revendeurs non autorisés et l'export hebdomadaire des données",
+            "Mise en place et automatisation de l'intégration des données collectées dans plus de 30 pays, pour le groupe Schneider Electric, afin d'améliorer le suivi du réseau de distribution",
             "Autres clients : Michelin, SFR, Carrefour, Boticinal, Sisley..."
             ],
             en: ""
@@ -78,9 +78,9 @@ export const EXPERIENCES = [
         description: {
             fr: [
             "Projet entrepreneurial de vente de bijoux et accessoires destinée au marché américain",
-            "Gestion globale du projet : recherche de fournisseurs, coordination logistique et stratégie produit.",
-            "Mise en place et gestion de la boutique en ligne sous Shopify.",
-            "Refonte du site avec React et Node.js pour remplacer Shopify par une solution sur mesure, plus flexible et maîtrisée."
+            "Gestion globale du projet : recherche de fournisseurs, coordination logistique et stratégie produit",
+            "Mise en place et gestion de la boutique en ligne sous Shopify",
+            "Refonte du site avec React et Node.js pour remplacer Shopify par une solution sur mesure et plus flexible"
             ],
             en: ""
         }
@@ -101,7 +101,7 @@ export const PROJECTS = [
         imgPath: aventurixImg,
         title: "Aventurix",
         description: "Application web dédiée aux voyages, permettant la réservation en ligne de séjours. Le projet comprend un système d'authentification des utilisateurs, la gestion des offres de voyage, un module de paiement sécurisé via Stripe, ainsi qu'un historique des réservations. L'application est déployée avec un front-end hébergé sur Netlify, un back-end sur Vercel, et une base de données MongoDB Atlas.",
-        githubLink: "https://github.com/git-thu-thao-nguyen",
+        githubLink: "https://github.com/git-thu-thao-nguyen/aventurix-back-secured",
         demoLink: "https://aventurix.netlify.app/"
     },
     {
@@ -124,7 +124,7 @@ export const PROJECTS = [
         id: 5,
         imgPath: velunaImg,
         title: "Veluna Studio",
-        description: "Site e-commerce développé sur Shopify dans le cadre d’un projet entrepreneurial, intégrant un référencement SEO optimisé, un paiement sécurisé, la gestion des stocks et le suivi des commandes. Le site offre une navigation fluide et des fonctionnalités e-commerce complètes.",
+        description: "Site e-commerce développé sur Shopify dans le cadre d'un projet entrepreneurial, intégrant un référencement SEO optimisé, un paiement sécurisé, la gestion des stocks et le suivi des commandes. Le site offre une navigation fluide et des fonctionnalités e-commerce complètes.",
         githubLink: "",
         demoLink: "https://www.velunastudio.com/"
     }
