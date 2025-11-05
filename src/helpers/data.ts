@@ -108,15 +108,15 @@ export const PROJECTS = [
         id: 3,
         imgPath: portfolioImg,
         title: "Portfolio",
-        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite, proposant une interface moderne et responsive. Le site regroupe mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger mon CV. Le projet est déployé sur ...//TODO",
+        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite, proposant une interface moderne et responsive. Le site regroupe mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger mon CV. Le projet est déployé sur Vercel.",
         githubLink: "https://github.com/git-thu-thao-nguyen/portfolio-v2",
-        demoLink: "https://thuthaonguyen.fr/"
+        demoLink: "https://thuthaonguyen.com/"
     },
     {
         id: 4,
         imgPath: kyotoImg,
         title: "Chemins de Kyoto",
-        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript Vanilla, avec GSAP pour la partie animation.",
+        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript Vanilla, avec la bibliothèque GSAP pour la partie animation.",
         githubLink: "https://github.com/git-thu-thao-nguyen/kyoto-site",
         demoLink: ""
     },
@@ -124,7 +124,7 @@ export const PROJECTS = [
         id: 5,
         imgPath: velunaImg,
         title: "Veluna Studio",
-        description: "Projet e-commerce conçu sur Shopify, intégrant un système SEO optimisé, le paiement sécurisé, la gestion des stocks et le suivi des commandes. Le site propose une navigation fluide et des fonctionnalités e-commerce complètes.",
+        description: "Site e-commerce développé sur Shopify dans le cadre d’un projet entrepreneurial, intégrant un référencement SEO optimisé, un paiement sécurisé, la gestion des stocks et le suivi des commandes. Le site offre une navigation fluide et des fonctionnalités e-commerce complètes.",
         githubLink: "",
         demoLink: "https://www.velunastudio.com/"
     }
@@ -139,13 +139,13 @@ export const SKILLS_DATA = [
     'Shadcn UI',
     'Javascript',
     'Typescript',
-    'Angular',
+    // 'Angular',
     'React',
     // 'Next JS',
     'Node.js',
     'Express.js',
     'PHP',
-    'Java',
+    // 'Java',
     'MongoDB',
     'MySQL',
     // 'PostgreSQL',

@@ -5,7 +5,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-🌐 **[Voir le portfolio en ligne](https://thuthaonguyen.fr)**
+🌐 **[Voir le portfolio en ligne](https://thuthaonguyen.com)**
 
 Portfolio personnel, développé avec **React, TypeScript, Bootstrap et Vite**.  
 

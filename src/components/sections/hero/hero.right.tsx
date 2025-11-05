@@ -21,30 +21,8 @@ const HeroRight = () => {
                     <div>
                         <span className="ms-4 me-2">name:</span>
                         <span className='text-yellow-500'>
-                            {`'`}Thu Thao NGUYEN{`',`}
+                            {`'`}Thu Thao Nguyen{`',`}
                         </span>
-                    </div>
-                    <div className="ms-4 me-2 text-pink-200">
-                        <span className="text-white-0">skills:</span>
-                        <span>{` ['`}</span>
-                        <span >React</span>
-                        <span>{"', '"}</span>
-                        <span >Redux</span>
-                        <span>{"', '"}</span>
-                        <span >NextJS</span>
-                        <span>{"', '"}</span>
-                        <span >Java Spring</span>
-                        <span>{"', '"}</span>
-                        <span >NestJS</span>
-                        <span>{"', '"}</span>
-                        <span >NoSQL</span>
-                        <span>{"', '"}</span>
-                        <span >SQL</span>
-                        <span>{"', '"}</span>
-                        <span >Docker</span>
-                        <span>{"', '"}</span>
-                        <span >PHP</span>
-                        <span>{"'],"}</span>
                     </div>
                     <div>
                         <span className="ms-4 me-2 ">responsible:</span>
@@ -65,6 +43,28 @@ const HeroRight = () => {
                         <span className="ms-4 me-2 ">coffeeLover:</span>
                         <span className="text-red-500">true</span>
                         <span>, // bonus dev 😄</span>
+                    </div>
+                    <div className="ms-4 me-2 text-pink-200">
+                        <span className="text-white-0">skills:</span>
+                        <span>{` ['`}</span>
+                        <span >Node.js</span>
+                        <span>{"', '"}</span>
+                        <span >Php</span>
+                        <span>{"', '"}</span>
+                        <span >React</span>
+                        <span>{"', '"}</span>
+                        <span >JavaScript</span>
+                        <span>{"', '"}</span>
+                        <span >TypeScript</span>
+                        <span>{"', '"}</span>
+                        <span >Html / Css / Tailwind</span>
+                        <span>{"', '"}</span>
+                        <span >MySQL</span>
+                        <span>{"', '"}</span>
+                        <span >MongoDB</span>
+                        <span>{"', '"}</span>
+                        <span >Elasticsearch</span>
+                        <span>{"'],"}</span>
                     </div>
                     <div>
                         <span className="ms-4 me-2 text-green-700">isHireable</span>

@@ -3,7 +3,6 @@ import ProjectCard from "./project.card";
 import { PROJECTS } from "helpers/data";
 import { useTranslation } from "react-i18next";
 // import Typewriter from "typewriter-effect";
-import bg from 'assets/svg/background/hero.svg';
 
 
 
@@ -13,16 +12,6 @@ const Project = () => {
 
     return (
         <>
-            <div style={{
-                backgroundImage: `url(${bg})`,
-                width: "100%",
-                height: 500,
-                position: "absolute",
-                top: 0,
-                backgroundRepeat: "no-repeat",
-                zIndex: 0
-            }}>
-            </div>
             <Row>
                 <Col xs={12}>
                     <h3 className="text-center">
@@ -60,7 +49,6 @@ const Project = () => {
                 })}
 
             </Row>
-            <div className="mb-7"></div>
         </>
     )
 }

@@ -21,14 +21,13 @@ const Introduction = () => {
                         <br />
                         {t("introSection.heading2")}&nbsp;
                         <i><b className='text-pink-100'>{t("introSection.heading3")}</b> </i>
-                        👩🏻‍🎓&nbsp;
+                        👩🏻‍🎓
                         {t("introSection.heading4")}&nbsp;
                         <i><b className='text-pink-100'>{t("introSection.heading5")}&nbsp;</b></i>
                         {t("introSection.heading6")}
                         <br />
                         <br />
                         {t("introSection.heading7")}
-                        {/* <i><b className='text-pink-100'> JavaScript, TypeScript, React {t("introSection.and")} Node.js. </b></i> */}
                         <br />
                         <br />
                         {t("introSection.heading8")}
