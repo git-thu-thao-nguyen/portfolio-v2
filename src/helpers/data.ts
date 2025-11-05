@@ -110,7 +110,7 @@ export const PROJECTS = [
         title: "Portfolio",
         description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite, proposant une interface moderne et responsive. Le site regroupe mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger mon CV. Le projet est déployé sur ...//TODO",
         githubLink: "https://github.com/git-thu-thao-nguyen/portfolio-v2",
-        demoLink: "http://thuthaonguyen.fr/"
+        demoLink: "https://thuthaonguyen.fr/"
     },
     {
         id: 4,
