@@ -1,0 +1,45 @@
+{
+    "appHeader": {
+        "brand": "Thu Thao NGUYEN",
+        "home": "Home",
+        "project": "Projects",
+        "contact": "Contact",
+        "about": "About"
+    },
+    "heroSection": {
+        "hello": "Hi There!",
+        "introduction": "I'M",
+        "exp": "Experience",
+        "cv": "Download CV",
+        "job1": "Full-stack Software Developer",
+        "job2": "Freelancer"
+    },
+    "introSection": {
+        "about": "About me",
+        "my": "My Personal",
+        "personal_projects": "Projects",
+        "projectTitle": "My Personal Projects",
+        "projectSubTitle": "A quick look at some projects I've built...",
+        "and": "and",
+        "quote": "A person who never made a mistake never tried anything new",
+        "heading1": "What I love about development is the combination of logic and creativity : understanding a need, turning it into code, and watching it come to life.",
+        "heading2": "Graduated with a",
+        "heading3": "Master's degree in Software and Web Architecture Engineering",
+        "heading4": ", I have",
+        "heading5": "over 5 years of experience",
+        "heading6": "in IT, through corporate projects and an entrepreneurial venture.",
+        "heading7": "Today, I'm continuing to grow as a developer, deepening my technical skills while staying curious and open to discovering new languages, frameworks, and approaches depending on the project.",
+        "heading8": "My goal: to build applications that make sense - solving real needs and bringing genuine value to the people who use them.",
+        "heading9": "And above all, I genuinely enjoy learning, experimenting, failing sometimes… but always moving forward 🙂"
+    },
+    "experience": {
+        "title": "Experiences"
+    },
+    "skill": {
+        "title": "Skills"
+    },
+    "appFooter": {
+        "credit": "Developed by",
+        "rights": "All rights reserved."
+    }
+}
