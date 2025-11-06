@@ -108,7 +108,7 @@ export const PROJECTS = [
         id: 3,
         imgPath: portfolioImg,
         title: "Portfolio",
-        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite, proposant une interface moderne et responsive. Le site regroupe mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger mon CV. Le projet est déployé sur Vercel.",
+        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite. Interface moderne, responsive et disponible en mode clair/sombre. Le site présente mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger le CV. Projet déployé sur Vercel.",
         githubLink: "https://github.com/git-thu-thao-nguyen/portfolio-v2",
         demoLink: "https://thuthaonguyen.com/"
     },
@@ -116,7 +116,7 @@ export const PROJECTS = [
         id: 4,
         imgPath: kyotoImg,
         title: "Chemins de Kyoto",
-        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript Vanilla, avec la bibliothèque GSAP pour la partie animation.",
+        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript Vanilla.",
         githubLink: "https://github.com/git-thu-thao-nguyen/kyoto-site",
         demoLink: ""
     },
