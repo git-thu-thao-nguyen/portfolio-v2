@@ -57,7 +57,7 @@ function AppHeader() {
             <Container>
 
                 <Link className="navbar-brand" to="/">
-                    <span className='brand-green'>Portfolio</span>
+                    <span className="font-mars">TTN</span>
                 </Link>
 
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

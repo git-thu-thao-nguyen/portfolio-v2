@@ -10,7 +10,7 @@
         "hello": "Bonjour!",
         "introduction": "Je m'appelle",
         "exp": "Expérience",
-        "cv": "Mon CV",
+        "cv": "Télécharger CV",
         "job1": "Développeuse Fullstack",
         "job2": "Freelance"
     },
@@ -23,10 +23,10 @@
         "quote": "Une personne qui n'a jamais fait d'erreur n'a jamais essayé quelque chose de nouveau",
         "heading1": "Ce que j'aime dans le développement, c'est cette combinaison entre logique et créativité : comprendre un besoin, le transformer en code et le voir prendre vie.",
         "heading2": "Diplômée d'un",
-        "heading3": "Bac+5 en Architecture et Ingénierie du Logiciel et du Web",
+        "heading3": "Bac+5 en Informatique",
         "heading4": ", j'ai",
-        "heading5": "plus de 5 ans d'expérience",
-        "heading6": "dans l'IT, à travers des projets en entreprise ainsi qu'une aventure entrepreneuriale.",
+        "heading5": "5+ ans d'expérience",
+        "heading6": "à travers des projets en entreprise ainsi qu'une aventure entrepreneuriale.",
         "heading7": "Aujourd'hui, je poursuis mon évolution en tant que développeuse et j'approfondis mes compétences techniques, tout en restant curieuse et ouverte à découvrir de nouveaux langages, frameworks ou approches selon les projets.",
         "heading8": "Mon objectif : créer des applications qui ont du sens, qui répondent à de vrais besoins et qui apportent une vraie valeur aux utilisateurs.",
         "heading9": "Et surtout, je prends beaucoup de plaisir à apprendre, tester, échouer parfois… mais toujours progresser 🙂"

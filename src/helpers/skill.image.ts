@@ -13,7 +13,7 @@ import capacitorjs from 'assets/svg/skills/capacitorjs.svg';
 import coffeescript from 'assets/svg/skills/coffeescript.svg';
 import cplusplus from 'assets/svg/skills/cplusplus.svg';
 import csharp from 'assets/svg/skills/csharp.svg';
-import css from 'assets/svg/skills/css.svg';
+import css3 from 'assets/svg/skills/css.svg';
 import dart from 'assets/svg/skills/dart.svg';
 import deno from 'assets/svg/skills/deno.svg';
 import django from 'assets/svg/skills/django.svg';
@@ -28,7 +28,7 @@ import git from 'assets/svg/skills/git.svg';
 import go from 'assets/svg/skills/go.svg';
 import graphql from 'assets/svg/skills/graphql.svg';
 import haxe from 'assets/svg/skills/haxe.svg';
-import html from 'assets/svg/skills/html.svg';
+import html5 from 'assets/svg/skills/html.svg';
 import illustrator from 'assets/svg/skills/illustrator.svg';
 import ionic from 'assets/svg/skills/ionic.svg';
 import java from 'assets/svg/skills/java.svg';
@@ -85,8 +85,8 @@ export const skillsImage = (skill: string) => {
     switch (skillID) {
         case 'gcp':
             return gcp;
-        case 'html':
-            return html;
+        case 'html5':
+            return html5;
         case 'photoshop':
             return photoshop;
         case 'docker':
@@ -97,8 +97,8 @@ export const skillsImage = (skill: string) => {
             return adobeXd;
         case 'after effects':
             return afterEffects;
-        case 'css':
-            return css;
+        case 'css3':
+            return css3;
         case 'angular':
             return angular;
         case 'javascript':

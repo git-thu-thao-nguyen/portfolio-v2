@@ -35,7 +35,7 @@ const HeroRight = () => {
                         <span>,</span>
                     </div>
                     <div>
-                        <span className="ms-4  me-2 ">neverStopLearning:</span>
+                        <span className="ms-4  me-2 ">problemSolver:</span>
                         <span className="text-red-500">true</span>
                         <span>,</span>
                     </div>
@@ -46,25 +46,25 @@ const HeroRight = () => {
                     </div>
                     <div className="ms-4 me-2 text-pink-200">
                         <span className="text-white-0">skills:</span>
-                        <span>{` ['`}</span>
-                        <span >Node.js</span>
+                        <span>{` [ '`}</span>
+                        <span>JavaScript / TypeScript</span>
                         <span>{"', '"}</span>
-                        <span >Php</span>
+                        <span>React</span>
                         <span>{"', '"}</span>
-                        <span >React</span>
+                        <span>Node.js</span>
                         <span>{"', '"}</span>
-                        <span >JavaScript/TypeScript</span>
+                        <span>Java</span>
                         <span>{"', '"}</span>
-                        <span >Html/Css/Tailwind</span>
+                        <span>PHP</span>
                         <span>{"', '"}</span>
-                        <span >MySQL</span>
+                        <span>HTML5 / CSS3</span>
                         <span>{"', '"}</span>
-                        <span >MongoDB</span>
+                        <span>Tailwind</span>
                         <span>{"', '"}</span>
-                        <span >Elasticsearch</span>
+                        <span>SQL/NoSQL</span>
                         <span>{"', '"}</span>
-                        <span >..</span>
-                        <span>{"'],"}</span>
+                        <span>...</span>
+                        <span>{"' ],"}</span>
                     </div>
                     <div>
                         <span className="ms-4 me-2 text-green-700">isHireable</span>
@@ -86,7 +86,7 @@ const HeroRight = () => {
                     </div>
                     <div>
                         <span className="ms-5 ps-3 text-blue-100">this.</span>
-                        <span className="me-2 ">neverStopLearning</span>
+                        <span className="me-2 ">problemSolver</span>
                         <span className='text-blue-100'>&amp;&amp;</span>
                     </div>
                     <div>

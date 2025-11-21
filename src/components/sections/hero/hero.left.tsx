@@ -45,7 +45,7 @@ const HeroLeft = (props: IProps) => {
                     loop: true,
                     delay: 40,
                     deleteSpeed: 25,
-                    wrapperClassName: "brand-green"
+                    // wrapperClassName: "brand-green"
                 }}
             />
             <div className="mt-md-6 mt-3 mb-md-5 mb-2">

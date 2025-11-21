@@ -10,30 +10,34 @@ const Introduction = () => {
     return (
         <section className='introduction-section my-5 my-md-7' style={{ position: "relative" }}>
             <Row>
-                <Col xs={12} md={8} lg={9} style={{ textAlign: "justify" }}>
+                <Col xs={12} md={8} lg={9} >
                     <h2 className='text-center text-md-start'>
                         <span className='text-pink-100'>{t("introSection.about")}</span>
                     </h2>
                     <br />
                     <p>
-                        {t("introSection.heading1")}
-                        <br />
-                        <br />
-                        {t("introSection.heading2")}&nbsp;
-                        <i><b className='text-pink-100'>{t("introSection.heading3")}</b> </i>
-                        👩🏻‍🎓
+                        🎓 {t("introSection.heading2")}&nbsp;
+                        <b className='text-pink-100'>{t("introSection.heading3")}</b>
                         {t("introSection.heading4")}&nbsp;
-                        <i><b className='text-pink-100'>{t("introSection.heading5")}&nbsp;</b></i>
+                        <b className='text-pink-100'>{t("introSection.heading5")}&nbsp;</b>
                         {t("introSection.heading6")}
                         <br />
+                        <br />
+
+                        {/* {t("introSection.heading1")} */}
+                        Mon parcours, entre développement web et gestion de projet, m'a appris à aborder un projet avec une vision technique mais aussi organisationnelle.
+                        <br />
+                        <br />
+                        Curieuse, rigoureuse et très investie dans mon travail, j'accorde une vraie importance à la qualité, à la maintainabilité du code et au respect des délais, ainsi qu'à la cohérence des solutions que je mets en place.
+
+                        {/* <br />
                         <br />
                         {t("introSection.heading7")}
                         <br />
                         <br />
                         {t("introSection.heading8")}
                         <br />
-                        <br />
-                        {t("introSection.heading9")}
+                        {t("introSection.heading9")} */}
 
 
                     </p>
@@ -55,7 +59,7 @@ const Introduction = () => {
                 <p className="text-center brand-red">"{t("introSection.quote")}"</p>
                 <p className="text-center brand-red">— Albert Einstein —</p>
             </div>
-        </section>
+        </section >
     )
 }
 

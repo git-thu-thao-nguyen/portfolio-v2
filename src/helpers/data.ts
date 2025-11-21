@@ -28,10 +28,12 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Conception et développement d'un tableau de bord moderne et interactif pour la plateforme Price Observatory",
-            "Développement d'interfaces pour gérer et planifier l'envoi automatique d'exports avec filtres",
-            "Participation à la mise en place d'une solution d'analyse automatisée basée sur l'IA, réduisant la charge de travail liée à la validation des données et accélérant la livraison des projets clients",
-            "Refactoring et optimisation du module de visualisation de données (graphiques de prix, marques, etc.)"
+            "Conception et développement d'un tableau de bord moderne, interactif et personnalisable",
+            "Développement d'interfaces permettant de configurer, filtrer et programmer des exports automatisés",
+            "Collecte et exploitation de données via des robots de scraping sur plusieurs milliers de sites e-commerce",
+            "Participation à la mise en place d'une solution d'analyse automatisée avec IA, réduisant la charge de travail liée à la validation des données et accélérant la livraison des projets clients",
+            "Développement pour le groupe TTI (Milwaukee, Ryobi) – d'un système de monitoring de 300+ sites distributeurs, détection des revendeurs non autorisés et export hebdomadaire automatisé des données",
+            "Automatisation de l'intégration des données dans 25+ pays, pour le groupe Schneider Electric – optimisation du suivi du réseau de distribution",
             ],
             en: ""
         }
@@ -52,11 +54,9 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Création et pilotage d'une équipe technique de 5 personnes basée à l'étranger, avec mise en place d'une organisation à distance et d'outils collaboratifs",
-            "Planification, chiffrage et suivi des projets clients, avec un taux de livraisons dans les délais supérieur à 95%",
-            "Développement, pour le groupe TTI (marques Milwaukee, Ryobi), d'un système automatisé de monitoring sur plus de 300 sites distributeurs, intégrant la détection des revendeurs non autorisés et l'export hebdomadaire des données",
-            "Mise en place et automatisation de l'intégration des données collectées dans plus de 30 pays, pour le groupe Schneider Electric, afin d'améliorer le suivi du réseau de distribution",
-            "Autres clients : Michelin, SFR, Carrefour, Boticinal, Sisley..."
+            "Planification, chiffrage et suivi des projets clients, avec des livraisons respectant les délais",
+            "Pilotage d'une équipe technique de 5 personnes à distance, chargée de mettre en place la solution pour les clients",
+            "Clients : Schneider, Michelin, SFR, Carrefour, Head, Atida, Sisley..."
             ],
             en: ""
         }
@@ -77,10 +77,10 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Projet entrepreneurial de vente de bijoux et accessoires destinée au marché américain",
-            "Gestion globale du projet : recherche de fournisseurs, coordination logistique et stratégie produit",
-            "Mise en place et gestion de la boutique en ligne sous Shopify",
-            "Refonte du site avec React et Node.js pour remplacer Shopify par une solution sur mesure et plus flexible"
+            "Projet entrepreneurial: création d'une marque de bijoux et accessoires pour le marché américain",
+            "Gestion globale du projet : recherche fournisseurs, coordination logistique et stratégie produit",
+            "Mise en place et gestion de la première boutique en ligne sous Shopify",
+            "Développement d'une solution sur mesure en React/Node.js pour remplacer Shopify à terme"
             ],
             en: ""
         }
@@ -116,7 +116,7 @@ export const PROJECTS = [
         id: 4,
         imgPath: kyotoImg,
         title: "Chemins de Kyoto",
-        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript Vanilla.",
+        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript.",
         githubLink: "https://github.com/git-thu-thao-nguyen/kyoto-site",
         demoLink: ""
     },
@@ -132,23 +132,23 @@ export const PROJECTS = [
 
 //TODO
 export const SKILLS_DATA = [
-    'HTML',
-    'CSS',
-    'Tailwind',
-    'Bootstrap',
-    'Shadcn UI',
     'Javascript',
     'Typescript',
     // 'Angular',
     'React',
     // 'Next JS',
+    'HTML5',
+    'CSS3',
+    'Tailwind',
+    'Bootstrap',
+    'Shadcn UI',
     'Node.js',
     'Express.js',
     'PHP',
-    // 'Java',
-    'MongoDB',
+    'Java',
     'MySQL',
     // 'PostgreSQL',
+    'MongoDB',
     'Elasticsearch',
     'Git',
     // 'Shopify',

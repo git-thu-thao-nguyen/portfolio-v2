@@ -79,3 +79,9 @@ $dark-theme: (
         --#{$name}: #{$color};
     }
 }
+
+
+@font-face {
+    font-family: 'mars';
+    src: url('../assets/fonts/Mars/Mars.otf');
+}
