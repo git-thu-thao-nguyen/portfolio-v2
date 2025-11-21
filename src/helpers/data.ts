@@ -8,7 +8,7 @@ import velunaImg from 'assets/project/veluna.png';
 export const APP_DATA = {
     GITHUB_URL: "https://github.com/git-thu-thao-nguyen",
     LINKEDIN_URL: "https://www.linkedin.com/in/thuthao-ng/",
-    CV_URL: "https://drive.google.com/file/d/1aOfIu651Uik2K8Tnh8AXSqYR5UzsJQTB/view" //TODO
+    CV_URL: "https://drive.google.com/file/d/1fF0rTBSKGmtBAW32npSf3zwUOOnS40dt/view"
 }
 
 export const EXPERIENCES = [
@@ -54,9 +54,9 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Planification, chiffrage et suivi des projets clients, avec des livraisons respectant les délais",
+            "Planification, chiffrage et suivi des projets clients, avec des livraisons conformes aux délais et exigences.",
             "Pilotage d'une équipe technique de 5 personnes à distance, chargée de mettre en place la solution pour les clients",
-            "Clients : Schneider, Michelin, SFR, Carrefour, Head, Atida, Sisley..."
+            "Plus de 50 clients déployés, parmi lesquels : Schneider, Michelin, SFR, Carrefour, Head, Atida, Sisley..."
             ],
             en: ""
         }
@@ -108,7 +108,7 @@ export const PROJECTS = [
         id: 3,
         imgPath: portfolioImg,
         title: "Portfolio",
-        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite. Interface moderne, responsive et disponible en mode clair/sombre. Le site présente mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger le CV. Projet déployé sur Vercel.",
+        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite. Interface moderne, responsive et disponible en mode clair/sombre. Le site présente mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger le CV. Projet déployé sur Vercel (CI/CD, déploiement automatique).",
         githubLink: "https://github.com/git-thu-thao-nguyen/portfolio-v2",
         demoLink: "https://thuthaonguyen.com/"
     },

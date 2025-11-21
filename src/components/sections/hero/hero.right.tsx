@@ -39,11 +39,11 @@ const HeroRight = () => {
                         <span className="text-red-500">true</span>
                         <span>,</span>
                     </div>
-                    <div>
+                    {/* <div>
                         <span className="ms-4 me-2 ">coffeeLover:</span>
                         <span className="text-red-500">true</span>
                         <span>, // bonus dev 😄</span>
-                    </div>
+                    </div> */}
                     <div className="ms-4 me-2 text-pink-200">
                         <span className="text-white-0">skills:</span>
                         <span>{` [ '`}</span>

@@ -28,7 +28,10 @@ const Introduction = () => {
                         Mon parcours, entre développement web et gestion de projet, m'a appris à aborder un projet avec une vision technique mais aussi organisationnelle.
                         <br />
                         <br />
-                        Curieuse, rigoureuse et très investie dans mon travail, j'accorde une vraie importance à la qualité, à la maintainabilité du code et au respect des délais, ainsi qu'à la cohérence des solutions que je mets en place.
+                        Curieuse, rigoureuse et très investie dans le travail, j'accorde une vraie importance à la qualité, à la maintainabilité du code et au respect des délais, ainsi qu'à la cohérence des solutions que je mets en place.
+                        <br />
+                        <br />
+                        Vous êtes intéressé(e) par mon profil ? N'hésitez pas à me contacter sur LinkedIn ou par email. Je reviendrai vers vous dans les plus brefs délais.
 
                         {/* <br />
                         <br />
@@ -55,10 +58,10 @@ const Introduction = () => {
             </div>
             <br />
             <br />
-            <div>
+            {/* <div>
                 <p className="text-center brand-red">"{t("introSection.quote")}"</p>
                 <p className="text-center brand-red">— Albert Einstein —</p>
-            </div>
+            </div> */}
         </section >
     )
 }

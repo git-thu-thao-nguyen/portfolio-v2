@@ -32,8 +32,10 @@ const HeroLeft = (props: IProps) => {
                 </span>
             </h3>
             <h3 className="pt-3 pb-3">
-                {t("heroSection.introduction")}&nbsp;
-                <strong className="brand-red">{t("appHeader.brand")}</strong>
+                {/* {t("heroSection.introduction")}&nbsp; */}
+                {/* <strong className="brand-red font-mars fw-light">{t("appHeader.brand")}</strong> */}
+                <strong className="fw-light font-mars" style={{ opacity: 0.8 }}>{t("appHeader.brand")}</strong>
+
             </h3>
             <Typewriter
                 options={{
