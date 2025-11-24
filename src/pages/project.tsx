@@ -15,7 +15,7 @@ const ProjectPage = () => {
                 zIndex: 0
             }}>
             </div>
-            <section className="mt-md-5 mt-2 pt-md-5 pt-0">
+            <section className="mt-md-5 mt-2 pt-md-3 pt-0">
                 <Container className="position-relative">
                     <Project />
                 </Container>

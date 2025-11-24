@@ -16,22 +16,30 @@ const Introduction = () => {
                     </h2>
                     <br />
                     <p>
-                        🎓 {t("introSection.heading2")}&nbsp;
+                        {/* 🎓 {t("introSection.heading2")}&nbsp;
                         <b className='text-pink-100'>{t("introSection.heading3")}</b>
                         {t("introSection.heading4")}&nbsp;
                         <b className='text-pink-100'>{t("introSection.heading5")}&nbsp;</b>
                         {t("introSection.heading6")}
                         <br />
-                        <br />
+                        <br /> */}
 
-                        {/* {t("introSection.heading1")} */}
-                        Mon parcours, entre développement web et gestion de projet, m'a appris à aborder un projet avec une vision technique mais aussi organisationnelle.
+                        🎓 Diplômée d'un Bac+5 en Informatique, je cumule plus de 5 ans d'expérience en développement web, automatisation et projets data, à travers des missions en entreprise et une aventure entrepreneuriale.
                         <br />
                         <br />
-                        Curieuse, rigoureuse et très investie dans le travail, j'accorde une vraie importance à la qualité, à la maintainabilité du code et au respect des délais, ainsi qu'à la cohérence des solutions que je mets en place.
+                        J'ai travaillé sur des technologies web, des outils full-stack, des workflows automatisés et des solutions data/IA, tout en prenant part à la gestion de projet. Ce parcours m'a appris à aborder un projet avec une vision technique, mais aussi produit et organisationnelle.
                         <br />
                         <br />
-                        Vous êtes intéressé(e) par mon profil ? N'hésitez pas à me contacter sur LinkedIn ou par email. Je reviendrai vers vous dans les plus brefs délais.
+                        Curieuse, rigoureuse et très investie dans mon travail, j'accorde une attention particulière à la qualité, à la maintenabilité du code et au respect des délais.
+                        <br />
+                        <br />
+                        <i>
+                            <span className='fw-light' style={{ opacity: 0.6 }}>
+                                Vous êtes intéressé(e) par mon profil ?
+                                <br />
+                                N'hésitez pas à me contacter sur LinkedIn ou par email. Je reviendrai vers vous dans les plus brefs délais.
+                            </span>
+                        </i>
 
                         {/* <br />
                         <br />
@@ -56,12 +64,14 @@ const Introduction = () => {
                 <span className="about-label">{t("introSection.about")}</span>
                 <span className="vertical-line"></span>
             </div>
+
+            {/* <br />
             <br />
-            <br />
-            {/* <div>
+            <div>
                 <p className="text-center brand-red">"{t("introSection.quote")}"</p>
                 <p className="text-center brand-red">— Albert Einstein —</p>
             </div> */}
+
         </section >
     )
 }

@@ -8,7 +8,7 @@ import velunaImg from 'assets/project/veluna.png';
 export const APP_DATA = {
     GITHUB_URL: "https://github.com/git-thu-thao-nguyen",
     LINKEDIN_URL: "https://www.linkedin.com/in/thuthao-ng/",
-    CV_URL: "https://drive.google.com/file/d/1fF0rTBSKGmtBAW32npSf3zwUOOnS40dt/view"
+    CV_URL: "https://drive.google.com/drive/u/0/folders/1NESMx4tEU6bCdxxrV-DPkl9FNKqgj9R6"
 }
 
 export const EXPERIENCES = [
@@ -77,7 +77,7 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Projet entrepreneurial: création d'une marque de bijoux et accessoires pour le marché américain",
+            "Projet entrepreneurial : création d'une marque e-commerce destinée au marché US",
             "Gestion globale du projet : recherche fournisseurs, coordination logistique et stratégie produit",
             "Mise en place et gestion de la première boutique en ligne sous Shopify",
             "Développement d'une solution sur mesure en React/Node.js pour remplacer Shopify à terme"
