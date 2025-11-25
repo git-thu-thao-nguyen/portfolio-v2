@@ -10,6 +10,7 @@ import Introduction from "components/sections/introduction";
 import ResizeButton from "components/sections/resize.button";
 import HeroLeft from "components/sections/hero/hero.left";
 import HeroRight from "components/sections/hero/hero.right";
+import { APP_DATA } from "@/helpers/data";
 
 const HomePage = () => {
 
@@ -19,6 +20,12 @@ const HomePage = () => {
 
     const scrollToExperienceSection = () => {
         expRef.current?.scrollIntoView({ behavior: "smooth" })
+    }
+
+    const handleDownloadCV = () => {
+        const url = APP_DATA.CV_URL
+        const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
+        if (newWindow) newWindow.opener = null
     }
 
     return (
@@ -49,6 +56,7 @@ const HomePage = () => {
                             <ResizeButton
                                 btnText={t("heroSection.cv")}
                                 btnIcons={<MdFileDownload />}
+                                onClick={handleDownloadCV}
                             />
                         </Col>
                     </Row>

@@ -27,7 +27,7 @@ const Introduction = () => {
                         🎓 Diplômée d'un Bac+5 en Informatique, je cumule plus de 5 ans d'expérience en développement web, automatisation et projets data, à travers des missions en entreprise et une aventure entrepreneuriale.
                         <br />
                         <br />
-                        J'ai travaillé sur des technologies web, des outils full-stack, des workflows automatisés et des solutions orientées data/IA, tout en prenant part à la gestion de projet. Ce parcours m’a permis d’aborder les projets avec une double vision : technique et organisationnelle.
+                        J'ai travaillé sur des technologies web, des outils full-stack, des workflows automatisés et des solutions orientées data/IA, tout en prenant part à la gestion de projet. Ce parcours m'a permis d'aborder les projets avec une double vision : technique et organisationnelle.
                         <br />
                         <br />
                         Curieuse, rigoureuse et engagée, je porte une attention constante à produire un code maintenable, structuré, testé et documenté, avec une exigence forte sur la qualité des livrables et la tenue des délais.

@@ -28,12 +28,13 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Conception et développement d'un tableau de bord moderne, interactif et personnalisable",
-            "Développement d'interfaces permettant de configurer, filtrer et programmer des exports automatisés",
-            "Collecte et exploitation de données via des robots de scraping sur plusieurs milliers de sites e-commerce",
-            "Participation à la mise en place d'une solution d'analyse automatisée avec IA, réduisant la charge de travail liée à la validation des données et accélérant la livraison des projets clients",
-            "Développement pour le groupe TTI (Milwaukee, Ryobi) – d'un système de monitoring de 300+ sites distributeurs, détection des revendeurs non autorisés et export hebdomadaire automatisé des données",
-            "Automatisation de l'intégration des données dans 25+ pays, pour le groupe Schneider Electric – optimisation du suivi du réseau de distribution",
+            "Conçu et développé un tableau de bord moderne, interactif et personnalisable.",
+            "Développé et intégré des interfaces permettant la configuration, le filtrage et la programmation d'exports automatisés.",
+            "Collecté et exploité des données via des robots de scraping sur plusieurs milliers de sites e-commerce.e",
+            "Contribué à la mise en place d'une solution d'analyse automatisée avec IA, réduisant de 60 % les opérations de validation manuelle des données.",
+            "Amélioré les outils internes pour accélérer l'onboarding des nouveaux projets clients.",
+            "Automatisé l'intégration des données dans 25 pays pour Schneider Electric, améliorant le suivi du réseau de distribution.",
+            "Développé et maintenu un système de monitoring pour le groupe TTI (Milwaukee, Ryobi), couvrant plus de 300 sites distributeurs, avec export hebdomadaire.",
             ],
             en: ""
         }
@@ -54,9 +55,9 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Planification, chiffrage et suivi des projets clients, avec des livraisons conformes aux délais et exigences.",
-            "Pilotage d'une équipe technique de 5 personnes à distance, chargée de mettre en place la solution pour les clients",
-            "Déploiement de la solution auprès de 100+ clients (Schneider, Michelin, SFR, Carrefour, Sisley, etc.)"
+            "Planifié, chiffré et suivi les projets clients, en respectant systématiquement les délais.",
+            "Encadré une équipe technique de 5 personnes, chargée du déploiement de la solution auprès des clients.",
+            "Plus de 100 déploiements clients réalisés avec succès (Schneider, Michelin, SFR, Carrefour, Sisley, etc.)."
             ],
             en: ""
         }
@@ -77,10 +78,10 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Projet entrepreneurial : création d'une marque e-commerce destinée au marché US",
-            "Gestion globale du projet : recherche fournisseurs, coordination logistique et stratégie produit",
-            "Mise en place et gestion de la première boutique en ligne sous Shopify",
-            "Développement d'une solution sur mesure en React/Node.js pour remplacer Shopify à terme"
+            "Projet entrepreneurial : création d'une marque e-commerce destinée au marché US.",
+            "Géré le projet complet : recherche fournisseurs, organisation logistique et stratégie produit.",
+            "Développé et maintenu une première version opérationnelle de la boutique en ligne.",
+            "Créé une nouvelle version en React/Node.js destinée à remplacer la V1."
             ],
             en: ""
         }
@@ -108,7 +109,7 @@ export const PROJECTS = [
         id: 3,
         imgPath: portfolioImg,
         title: "Portfolio",
-        description: "Portfolio personnel conçu avec React, TypeScript, Bootstrap et Vite. Interface moderne, responsive et disponible en mode clair/sombre. Le site présente mon parcours, mes projets et mes compétences techniques, avec la possibilité de télécharger le CV. Projet déployé sur Vercel (CI/CD, déploiement automatique).",
+        description: "Site personnel présentant mon parcours, une sélection de mes projets personnels ainsi que mes compétences. L'interface est moderne, adaptée à tous les écrans et propose un mode clair/sombre. Le site permet également de télécharger mon CV. Projet déployé sur Vercel (CI/CD, déploiement automatique).",
         githubLink: "https://github.com/git-thu-thao-nguyen/portfolio-v2",
         demoLink: "https://thuthaonguyen.com/"
     },
@@ -116,7 +117,7 @@ export const PROJECTS = [
         id: 4,
         imgPath: kyotoImg,
         title: "Chemins de Kyoto",
-        description: "Site vitrine présentant la ville de Kyoto à travers ses temples, ses paysages et des forfaits d'itinéraires exclusifs destinés aux voyageurs. Le projet propose un design simple et épuré, et repose sur une structure en HTML5, CSS3 et JavaScript.",
+        description: "Site vitrine qui présente Kyoto à travers ses temples, ses paysages et une sélection de forfaits d'itinéraires prêts à réserver. Le contenu est organisé de façon claire pour aider les voyageurs à découvrir les parcours et choisir facilement l'option qui leur convient.",
         githubLink: "https://github.com/git-thu-thao-nguyen/kyoto-site",
         demoLink: ""
     },
@@ -124,7 +125,7 @@ export const PROJECTS = [
         id: 5,
         imgPath: velunaImg,
         title: "Veluna Studio",
-        description: "Site e-commerce développé sur Shopify dans le cadre d'un projet entrepreneurial, intégrant un référencement SEO optimisé, un paiement sécurisé, la gestion des stocks et le suivi des commandes. Le site offre une navigation fluide et des fonctionnalités e-commerce complètes.",
+        description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial, avec un SEO optimisé, un système de paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord dédié. L'expérience utilisateur est fluide et l'ensemble des fonctionnalités e-commerce essentielles est intégré.",
         githubLink: "",
         demoLink: "https://www.velunastudio.com/"
     }
