@@ -56,7 +56,7 @@ export const EXPERIENCES = [
             fr: [
             "Planification, chiffrage et suivi des projets clients, avec des livraisons conformes aux délais et exigences.",
             "Pilotage d'une équipe technique de 5 personnes à distance, chargée de mettre en place la solution pour les clients",
-            "Plus de 100 clients déployés, parmi lesquels : Schneider, Michelin, SFR, Carrefour, Head, Atida, Sisley..."
+            "Déploiement de la solution auprès de 100+ clients (Schneider, Michelin, SFR, Carrefour, Sisley, etc.)"
             ],
             en: ""
         }
