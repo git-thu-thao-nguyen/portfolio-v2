@@ -24,20 +24,21 @@ const Introduction = () => {
                         <br />
                         <br /> */}
 
-                        🎓 Diplômée d'un Bac+5 en Informatique, je cumule plus de 5 ans d'expérience en développement web, automatisation et projets data, à travers des missions en entreprise et une aventure entrepreneuriale.
+                        🎓 Diplômée d'un Bac+5 en informatique, je possède 5 ans d'expérience en développement et gestion de projet, à travers des missions en entreprise et une aventure entrepreneuriale.
                         <br />
                         <br />
-                        J'ai travaillé sur des technologies web, des outils full-stack, des workflows automatisés et des solutions orientées data/IA, tout en prenant part à la gestion de projet. Ce parcours m'a permis d'aborder les projets avec une double vision : technique et organisationnelle.
+                        J'ai travaillé sur des technologies web, des outils full-stack, des workflows automatisés et des solutions orientées data/IA, tout en prenant part à la gestion de projet.
                         <br />
+                        Ce parcours m'a permis d'aborder les projets avec une double vision : technique et organisationnelle.
                         <br />
-                        Curieuse, rigoureuse et engagée, je porte une attention constante à produire un code maintenable, structuré, testé et documenté, avec une exigence forte sur la qualité des livrables et la tenue des délais.
+                        Rigoureuse et engagée, je m'attache à livrer un travail propre, soigné, conforme aux bonnes pratiques et dans le respect des délais.
                         <br />
                         <br />
                         <i>
                             <span className='fw-light' style={{ opacity: 0.6 }}>
                                 Intéressé(e) par mon profil ?
                                 <br />
-                                N'hésitez pas à me contacter sur LinkedIn ou par email, je vous répondrai rapidement !
+                                N'hésitez pas à me contacter sur LinkedIn ou par email, je reviens vers vous très vite.
                             </span>
                         </i>
 

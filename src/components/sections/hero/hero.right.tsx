@@ -52,12 +52,12 @@ const HeroRight = () => {
                         <span>React</span>
                         <span>{"', '"}</span>
                         <span>Node.js</span>
-                        <span>{"', '"}</span>
-                        <span>Java</span>
+                        {/* <span>{"', '"}</span>
+                        <span>Java</span> */}
                         <span>{"', '"}</span>
                         <span>PHP</span>
                         <span>{"', '"}</span>
-                        <span>HTML5 / CSS3</span>
+                        <span>IA (Llama)</span>
                         <span>{"', '"}</span>
                         <span>Tailwind</span>
                         <span>{"', '"}</span>

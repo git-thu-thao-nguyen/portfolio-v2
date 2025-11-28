@@ -29,12 +29,13 @@ export const EXPERIENCES = [
         description: {
             fr: [
             "Conçu et développé un tableau de bord moderne, interactif et personnalisable.",
-            "Développé et intégré des interfaces permettant la configuration, le filtrage et la programmation d'exports automatisés.",
-            "Collecté et exploité des données via des robots de scraping sur plusieurs milliers de sites e-commerce.e",
-            "Contribué à la mise en place d'une solution d'analyse automatisée avec IA, réduisant de 60 % les opérations de validation manuelle des données.",
-            "Amélioré les outils internes pour accélérer l'onboarding des nouveaux projets clients.",
-            "Automatisé l'intégration des données dans 25 pays pour Schneider Electric, améliorant le suivi du réseau de distribution.",
-            "Développé et maintenu un système de monitoring pour le groupe TTI (Milwaukee, Ryobi), couvrant plus de 300 sites distributeurs, avec export hebdomadaire.",
+            "Développé des interfaces permettant de configurer, filtrer et programmer des exports automatisés.",
+            "Collecté et exploité des données via des robots de scraping sur plusieurs milliers de sites e-commerce.",
+            "Contribué à la mise en place d'une solution d'analyse automatisée avec IA (Llama - Meta), réduisant de 60 % les opérations de validation manuelle des données.",
+            "Optimisé les outils et pipelines internes pour accélérer l'onboarding des nouveaux projets clients.",
+            "Mis en place un processus d'intégration de données à grande échelle (25 pays) pour Schneider Electric, améliorant la visibilité et le suivi du réseau de distribution.",
+            "Développé et maintenu un système de monitoring pour le groupe TTI (Milwaukee, Ryobi), couvrant plus de 300 sites distributeurs, avec export hebdomadaire automatisé.",
+            "Stack : JavaScript, PHP, SQL, API REST, jQuery, Bootstrap, Redis, Elasticsearch, Git, Linux, Cloud, IA, etc."
             ],
             en: ""
         }
@@ -55,8 +56,8 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Planifié, chiffré et suivi les projets clients, en respectant systématiquement les délais.",
-            "Encadré une équipe technique de 5 personnes, chargée du déploiement de la solution auprès des clients.",
+            "Coordonné une équipe de 5 personnes chargée du déploiement de la solution pour les clients.",
+            "Assuré la conduite de projets : cadrage, mise en place et gestion des plannings (étapes, priorités, deadlines).",
             "Plus de 100 déploiements clients réalisés avec succès (Schneider, Michelin, SFR, Carrefour, Sisley, etc.)."
             ],
             en: ""
@@ -65,7 +66,7 @@ export const EXPERIENCES = [
     {
         id: 3,
         title: {
-            fr: "Entrepreneuse",
+            fr: "Entrepreneuse / Développeuse",
             en: ""
         },
         company: {
@@ -80,8 +81,8 @@ export const EXPERIENCES = [
             fr: [
             "Projet entrepreneurial : création d'une marque e-commerce destinée au marché US.",
             "Géré le projet complet : recherche fournisseurs, organisation logistique et stratégie produit.",
-            "Développé et maintenu une première version opérationnelle de la boutique en ligne.",
-            "Créé une nouvelle version en React/Node.js destinée à remplacer la V1."
+            "Développé et maintenu une première version opérationnelle de la boutique, puis créé une V2 modernisée.",
+            "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
             ],
             en: ""
         }
@@ -146,7 +147,7 @@ export const SKILLS_DATA = [
     'Node.js',
     'Express.js',
     'PHP',
-    'Java',
+    // 'Java',
     'MySQL',
     // 'PostgreSQL',
     'MongoDB',
