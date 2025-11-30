@@ -2,7 +2,6 @@ import spaceAstroXImg from 'assets/project/spaceAstroX.png';
 import aventurixImg from 'assets/project/aventurix.png';
 import portfolioImg from 'assets/project/portfolio.png';
 import kyotoImg from 'assets/project/kyoto.png';
-import velunaImg from 'assets/project/veluna.png';
 
 
 export const APP_DATA = {
@@ -28,13 +27,14 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Conçu et développé un tableau de bord moderne, interactif et personnalisable.",
-            "Développé des interfaces permettant de configurer, filtrer et programmer des exports automatisés.",
+            "Conçu et développé la V2 d'un tableau de bord moderne, avec une architecture modulaire et personnalisable.",
+            "Développé les interfaces permettant de configurer, administrer et programmer des exports, ainsi que le batch chargé d'exécuter les exports planifiés via un cron job dynamique.",
             "Collecté et exploité des données via des robots de scraping sur plusieurs milliers de sites e-commerce.",
-            "Contribué à la mise en place d'une solution d'analyse automatisée avec IA (Llama - Meta), réduisant de 60 % les opérations de validation manuelle des données.",
-            "Optimisé les outils et pipelines internes pour accélérer l'onboarding des nouveaux projets clients.",
-            "Mis en place un processus d'intégration de données à grande échelle (25 pays) pour Schneider Electric, améliorant la visibilité et le suivi du réseau de distribution.",
-            "Développé et maintenu un système de monitoring pour le groupe TTI (Milwaukee, Ryobi), couvrant plus de 300 sites distributeurs, avec export hebdomadaire automatisé.",
+            "Intégré une solution d'analyse automatisée basée sur IA (LLaMA - Meta), réduisant de 60 % les opérations de validation manuelle des données.",
+            "Optimisé les outils internes pour accélérer l'onboarding des nouveaux projets clients.",
+            "Implémenté un pipeline d'intégration de données de 25 pays pour Schneider Electric, améliorant significativement le suivi du réseau de distribution.",
+            "Participé à la conception et à la maintenance d'un système de monitoring pour le groupe TTI (Milwaukee, Ryobi), couvrant plus de 300 sites distributeurs, avec alerting automatisé.",
+            "Contribué à l'amélioration continue : refactoring, code review, optimisation UX, documentation.",
             "Stack : JavaScript, PHP, SQL, API REST, jQuery, Bootstrap, Redis, Elasticsearch, Git, Linux, Cloud, IA, etc."
             ],
             en: ""
@@ -66,11 +66,11 @@ export const EXPERIENCES = [
     {
         id: 3,
         title: {
-            fr: "Entrepreneuse / Développeuse",
+            fr: "Entrepreneuse",
             en: ""
         },
         company: {
-            fr: "E-commerce",
+            fr: "Projet entrepreneurial",
             en: "Projet entrepreneurial"
         },
         duration: {
@@ -79,10 +79,10 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
-            "Géré le projet complet : recherche fournisseurs, organisation logistique et stratégie produit.",
+            "Cofondation d'une marque e-commerce destinée au marché US.",
+            "Géré le projet complet : produit, logistique, UX et évolutions continues.",
             "Développé et maintenu une première version opérationnelle de la boutique, puis créé une V2 modernisée.",
-            "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
+            "Conçu l'architecture front/back pour V2 : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
             ],
             en: ""
         }
@@ -122,14 +122,14 @@ export const PROJECTS = [
         githubLink: "https://github.com/git-thu-thao-nguyen/kyoto-site",
         demoLink: ""
     },
-    {
-        id: 5,
-        imgPath: velunaImg,
-        title: "Veluna Studio",
-        description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial, avec un SEO optimisé, un système de paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord dédié. L'expérience utilisateur est fluide et l'ensemble des fonctionnalités e-commerce essentielles est intégré.",
-        githubLink: "",
-        demoLink: "https://www.velunastudio.com/"
-    }
+    // {
+    //     id: 5,
+    //     imgPath: "",
+    //     title: "",
+    //     description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial, avec un SEO optimisé, un système de paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord dédié. L'expérience utilisateur est fluide et l'ensemble des fonctionnalités e-commerce essentielles est intégré.",
+    //     githubLink: "",
+    //     demoLink: ""
+    // }
 ]
 
 //TODO
