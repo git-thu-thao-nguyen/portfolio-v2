@@ -70,8 +70,8 @@ export const EXPERIENCES = [
             en: ""
         },
         company: {
-            fr: "Veluna Studio",
-            en: "Veluna Studio"
+            fr: "E-commerce",
+            en: "Projet entrepreneurial"
         },
         duration: {
             fr: "2025 - Maintenant",
@@ -79,7 +79,7 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Projet entrepreneurial : création d'une marque e-commerce destinée au marché US.",
+            "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
             "Géré le projet complet : recherche fournisseurs, organisation logistique et stratégie produit.",
             "Développé et maintenu une première version opérationnelle de la boutique, puis créé une V2 modernisée.",
             "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
