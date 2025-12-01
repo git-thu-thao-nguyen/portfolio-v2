@@ -2,6 +2,7 @@ import spaceAstroXImg from 'assets/project/spaceAstroX.png';
 import aventurixImg from 'assets/project/aventurix.png';
 import portfolioImg from 'assets/project/portfolio.png';
 import kyotoImg from 'assets/project/kyoto.png';
+import nordenwell from 'assets/project/nordenwell.png';
 
 
 export const APP_DATA = {
@@ -70,8 +71,8 @@ export const EXPERIENCES = [
             en: ""
         },
         company: {
-            fr: "Projet entrepreneurial",
-            en: "Projet entrepreneurial"
+            fr: "Nordenwell",
+            en: "Nordenwell"
         },
         duration: {
             fr: "2025 - Maintenant",
@@ -79,7 +80,7 @@ export const EXPERIENCES = [
         },
         description: {
             fr: [
-            "Cofondation d'une marque e-commerce destinée au marché US.",
+            "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
             "Géré le projet complet : produit, logistique, UX et évolutions continues.",
             "Développé et maintenu une première version opérationnelle de la boutique, puis créé une V2 modernisée.",
             "Conçu l'architecture front/back pour V2 : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
@@ -122,14 +123,14 @@ export const PROJECTS = [
         githubLink: "https://github.com/git-thu-thao-nguyen/kyoto-site",
         demoLink: ""
     },
-    // {
-    //     id: 5,
-    //     imgPath: "",
-    //     title: "",
-    //     description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial, avec un SEO optimisé, un système de paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord dédié. L'expérience utilisateur est fluide et l'ensemble des fonctionnalités e-commerce essentielles est intégré.",
-    //     githubLink: "",
-    //     demoLink: ""
-    // }
+    {
+        id: 5,
+        imgPath: nordenwell,
+        title: "Nordenwell",
+        description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial, intégrant un SEO optimisé, un paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord intuitif via Shopify.",
+        githubLink: "",
+        demoLink: "https://nordenwell.com/"
+    }
 ]
 
 //TODO
