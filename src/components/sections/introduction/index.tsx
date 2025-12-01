@@ -16,22 +16,13 @@ const Introduction = () => {
                     </h2>
                     <br />
                     <p>
-                        {/* 🎓 {t("introSection.heading2")}&nbsp;
-                        <b className='text-pink-100'>{t("introSection.heading3")}</b>
-                        {t("introSection.heading4")}&nbsp;
-                        <b className='text-pink-100'>{t("introSection.heading5")}&nbsp;</b>
-                        {t("introSection.heading6")}
-                        <br />
-                        <br /> */}
-
-                        🎓 Diplômée d'un Bac+5 en informatique, je possède 5 ans d'expérience en développement et gestion de projet, à travers des missions en entreprise et une aventure entrepreneuriale.
+                        Développeuse full-stack avec 5 ans d'expérience hybride entre développement web et gestion de projet, complétée par une aventure entrepreneuriale.
                         <br />
                         <br />
-                        J'ai travaillé sur des technologies web, des outils full-stack, des workflows automatisés et des solutions orientées data/IA, tout en prenant part à la gestion de projet.
+                        Ce parcours m'a permis d'avoir une approche technique, organisationnelle, et me pousse à contribuer à la réussite du produit, pas seulement à son implémentation.
                         <br />
-                        Ce parcours m'a permis d'aborder les projets avec une double vision : technique et organisationnelle.
                         <br />
-                        Rigoureuse et engagée, je m'attache à livrer un travail propre, soigné, conforme aux bonnes pratiques et dans le respect des délais.
+                        Compétences technique en conception d'applications front/back, intégration d'API, automatisation de workflows et traitement de données dans un environnement SaaS exigeant.
                         <br />
                         <br />
                         <i>
@@ -42,18 +33,10 @@ const Introduction = () => {
                             </span>
                         </i>
 
-                        {/* <br />
-                        <br />
-                        {t("introSection.heading7")}
-                        <br />
-                        <br />
-                        {t("introSection.heading8")}
-                        <br />
-                        {t("introSection.heading9")} */}
-
-
+                        {/* {t("introSection.heading9")} */}
                     </p>
                 </Col>
+
                 {/* <Col md={3} className='d-md-block d-none'> */}
                 <Col xs={12} md={4} lg={3} className="text-center mt-4 mt-md-0">
                     <Tilt>

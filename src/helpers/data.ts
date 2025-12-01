@@ -127,7 +127,7 @@ export const PROJECTS = [
         id: 5,
         imgPath: nordenwell,
         title: "Nordenwell",
-        description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial, intégrant un SEO optimisé, un paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord intuitif via Shopify.",
+        description: "Site e-commerce développé dans le cadre d'un projet entrepreneurial destiné au marché US, intégrant un SEO optimisé, un système de paiement sécurisé, la gestion des stocks, le suivi des commandes et un tableau de bord intuitif via Shopify.",
         githubLink: "",
         demoLink: "https://nordenwell.com/"
     }
