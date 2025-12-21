@@ -31,12 +31,12 @@ export const EXPERIENCES = [
             "Conçu et développé la V2 d'un tableau de bord moderne, avec une architecture modulaire et personnalisable.",
             "Développé les interfaces permettant de configurer, administrer et programmer des exports, ainsi que le batch chargé d'exécuter les exports planifiés via un cron job dynamique.",
             "Collecté et exploité des données via des robots de scraping sur plusieurs milliers de sites e-commerce.",
-            "Intégré une solution d'analyse automatisée basée sur IA (LLaMA - Meta), réduisant de 60 % les opérations de validation manuelle des données.",
+            "Intégré une solution d'analyse automatisée basée sur IA (LLaMA), réduisant de 60 % les opérations de validation manuelle des données.",
             "Optimisé les outils internes pour accélérer l'onboarding des nouveaux projets clients.",
             "Implémenté un pipeline d'intégration de données de 25 pays pour Schneider Electric, améliorant significativement le suivi du réseau de distribution.",
             "Participé à la conception et à la maintenance d'un système de monitoring pour le groupe TTI (Milwaukee, Ryobi), couvrant plus de 300 sites distributeurs, avec alerting automatisé.",
             "Contribué à l'amélioration continue : refactoring, code review, optimisation UX, documentation.",
-            "Stack : JavaScript, PHP, SQL, API REST, jQuery, Bootstrap, Redis, Elasticsearch, Git, Linux, Cloud, IA, etc."
+            "Stack : JavaScript, PHP, API REST, jQuery, SQL, Elasticsearch, MongoDB, Doctrine, Redis, Cloud, Git, etc."
             ],
             en: ""
         }
@@ -52,8 +52,8 @@ export const EXPERIENCES = [
             en: "Price Observatory"
         },
         duration: {
-            fr: "2021 - 2025",
-            en: "2021 - 2025",
+            fr: "2020 - 2025",
+            en: "2020 - 2025",
         },
         description: {
             fr: [
@@ -81,9 +81,10 @@ export const EXPERIENCES = [
         description: {
             fr: [
             "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
-            "Géré le projet complet : produit, logistique, UX et évolutions continues.",
-            "Développé et maintenu une première version opérationnelle de la boutique, puis créé une V2 modernisée.",
-            "Conçu l'architecture front/back pour V2 : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
+            "Mis en place une première version fonctionnelle du site, puis contribué à une V2 modernisée.",
+            "Structuré l'application V2 (front/back), l'authentification, la gestion produits et les APIs.",
+            "Développé les fonctionnalités clés : comptes utilisateurs, commandes, paiement sécurisé.",
+            "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
             ],
             en: ""
         }

@@ -25,7 +25,7 @@ const HeroRight = () => {
                         </span>
                     </div>
                     <div>
-                        <span className="ms-4 me-2 ">responsible:</span>
+                        <span className="ms-4 me-2 ">rigorous:</span>
                         <span className="text-red-500">true</span>
                         <span>,</span>
                     </div>
@@ -57,12 +57,12 @@ const HeroRight = () => {
                         <span>{"', '"}</span>
                         <span>PHP</span>
                         <span>{"', '"}</span>
-                        <span>IA (Llama)</span>
-                        <span>{"', '"}</span>
                         <span>Tailwind</span>
                         <span>{"', '"}</span>
                         <span>SQL/NoSQL</span>
                         <span>{"', '"}</span>
+                        <span>{"', '"}</span>
+                        <span>IA Llama</span>
                         <span>...</span>
                         <span>{"' ],"}</span>
                     </div>
@@ -76,7 +76,7 @@ const HeroRight = () => {
                     </div>
                     <div>
                         <span className="ms-5 ps-3 text-blue-100">this.</span>
-                        <span className="me-2 ">responsible</span>
+                        <span className="me-2 ">rigorous</span>
                         <span className='text-blue-100'>&amp;&amp;</span>
                     </div>
                     <div>

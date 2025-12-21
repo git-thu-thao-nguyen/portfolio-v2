@@ -16,7 +16,7 @@ const Introduction = () => {
                     </h2>
                     <br />
                     <p>
-                        Développeuse full-stack avec 5 ans d'expérience hybride entre développement web et gestion de projet, complétée par une aventure entrepreneuriale.
+                        Développeuse full-stack avec un profil hybride en développement web et gestion de projet, renforcé par une expérience entrepreneuriale.
                         <br />
                         <br />
                         Ce parcours m'a permis d'avoir une approche technique, organisationnelle, et me pousse à contribuer à la réussite du produit, pas seulement à son implémentation.
