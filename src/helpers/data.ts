@@ -59,7 +59,7 @@ export const EXPERIENCES = [
             fr: [
             "Coordonné une équipe de 5 personnes chargée du déploiement de la solution pour les clients.",
             "Assuré la conduite de projets : cadrage, mise en place et gestion des plannings (étapes, priorités, deadlines).",
-            "Plus de 100 déploiements clients réalisés avec succès (Schneider, Michelin, SFR, Carrefour, Sisley, etc.)."
+            "Plus de 100 déploiements clients réalisés avec succès (Schneider, Michelin, Sisley, SFR, etc.)."
             ],
             en: ""
         }
@@ -81,9 +81,10 @@ export const EXPERIENCES = [
         description: {
             fr: [
             "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
-            "Mis en place une première version fonctionnelle du site, puis contribué à une V2 modernisée.",
-            "Structuré l'application V2 (front/back), l'authentification, la gestion produits et les APIs.",
-            "Développé les fonctionnalités clés : comptes utilisateurs, commandes, paiement sécurisé.",
+            "Participé à la conception et au développement global du projet.",
+            // "Géré les aspects marketing digital : SEO, campagnes publicitaires, réseaux sociaux.",
+            "Mis en place une première version opérationnelle du site.",
+            "Conçu et développé la V2 de l'application : API, comptes utilisateurs, commandes, paiement sécurisé, etc.",
             "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
             ],
             en: ""
@@ -141,11 +142,9 @@ export const SKILLS_DATA = [
     // 'Angular',
     'React',
     // 'Next JS',
-    'HTML5',
-    'CSS3',
     'Tailwind',
     'Bootstrap',
-    'Shadcn UI',
+    // 'Shadcn UI',
     'Node.js',
     'Express.js',
     'PHP',
@@ -155,6 +154,9 @@ export const SKILLS_DATA = [
     'MongoDB',
     'Elasticsearch',
     'Git',
+    'Docker',
+    'HTML5',
+    'CSS3',
     // 'Shopify',
     // 'AWS',
     // 'Docker',

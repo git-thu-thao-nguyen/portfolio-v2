@@ -57,12 +57,10 @@ const HeroRight = () => {
                         <span>{"', '"}</span>
                         <span>PHP</span>
                         <span>{"', '"}</span>
-                        <span>Tailwind</span>
-                        <span>{"', '"}</span>
                         <span>SQL/NoSQL</span>
                         <span>{"', '"}</span>
+                        <span>LLM</span>
                         <span>{"', '"}</span>
-                        <span>IA Llama</span>
                         <span>...</span>
                         <span>{"' ],"}</span>
                     </div>
