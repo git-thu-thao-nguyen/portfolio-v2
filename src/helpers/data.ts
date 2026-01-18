@@ -64,32 +64,32 @@ export const EXPERIENCES = [
             en: ""
         }
     },
-    {
-        id: 3,
-        title: {
-            fr: "Entrepreneuse",
-            en: ""
-        },
-        company: {
-            fr: "Nordenwell",
-            en: "Nordenwell"
-        },
-        duration: {
-            fr: "2025 - Maintenant",
-            en: "",
-        },
-        description: {
-            fr: [
-            "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
-            "Participé à la conception et au développement global du projet.",
-            // "Géré les aspects marketing digital : SEO, campagnes publicitaires, réseaux sociaux.",
-            "Mis en place une première version opérationnelle du site.",
-            "Conçu et développé la V2 de l'application : API, comptes utilisateurs, commandes, paiement sécurisé, etc.",
-            "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
-            ],
-            en: ""
-        }
-    },
+    // {
+    //     id: 3,
+    //     title: {
+    //         fr: "Entrepreneuse",
+    //         en: ""
+    //     },
+    //     company: {
+    //         fr: "Nordenwell",
+    //         en: "Nordenwell"
+    //     },
+    //     duration: {
+    //         fr: "2025 - Maintenant",
+    //         en: "",
+    //     },
+    //     description: {
+    //         fr: [
+    //         "Projet entrepreneurial : cofondation d'une marque e-commerce destinée au marché US.",
+    //         "Participé à la conception et au développement global du projet.",
+    //         // "Géré les aspects marketing digital : SEO, campagnes publicitaires, réseaux sociaux.",
+    //         "Mis en place une première version opérationnelle du site.",
+    //         "Conçu et développé la V2 de l'application : API, comptes utilisateurs, commandes, paiement sécurisé, etc.",
+    //         "Stack : TypeScript, React, Tailwind, Node.js, Express.js, MongoDB."
+    //         ],
+    //         en: ""
+    //     }
+    // },
 ]
 
 export const PROJECTS = [
